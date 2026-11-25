@@ -4,7 +4,7 @@
   <img src="https://www.gitskins.com/api/section/hero?username=devlin-hahn04&theme=github-dark&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F157625833%3Fu%3D5f5b0593bce2469b76a8d3e1994189ea94fcd78f%26v%3D4" alt="devlin-hahn04 hero visual" />
 </p>
 
-**Devlin Hahn** · Frontend or full-stack engineer
+**Devlin Hahn** · Software Engineering Student UPRM 
 
 ## About
 
